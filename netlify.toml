@@ -1,6 +1,6 @@
-[build]
-  command = "hugo"
-  publish = "public"
+# [build]
+#  command = "hugo --buildDrafts"
+#  publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.119.0"
