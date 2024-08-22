@@ -1,0 +1,22 @@
+# This is a template .gitignore file for git-managed Hugo projects.
+#
+# Fact: you don't want Hugo core files, or your server-specific
+# configuration files etc., in your project's repository. You just don't.
+#
+# Ignore everything in the root except the "content" directory and "static"
+/*
+!.gitignore
+!.gitmodules
+!content/
+!*.toml
+!static/
+
+#OS
+.DS_Store
+
+# Ignore everything in the "content" directory,
+# and "themes" directories.
+content/*
+themes/*
+
+# Modified from https://gist.github.com/damien1/b90e0c3005e3b6a9154fb9399fd88f38
