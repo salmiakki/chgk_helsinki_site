@@ -14,9 +14,4 @@
 #OS
 .DS_Store
 
-# Ignore everything in the "content" directory,
-# and "themes" directories.
-content/*
-themes/*
-
 # Modified from https://gist.github.com/damien1/b90e0c3005e3b6a9154fb9399fd88f38
