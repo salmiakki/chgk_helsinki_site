@@ -30,7 +30,10 @@ draft = false
 - 26.04.2025 (сб) - 9-я игра
 - 17.05.2025 (сб) - 10-я игра, Чемпионат Финляндии
 
-[Ссылка на календарь](https://calendar.google.com/calendar/u/0/embed?src=oe19754r7phbv79760uq97ioec@group.calendar.google.com&ctz=Europe/Helsinki).
+- [В виде Google-календаря](https://calendar.google.com/calendar/u/0/embed?src=oe19754r7phbv79760uq97ioec@group.calendar.google.com&ctz=Europe/Helsinki)
+- [В удобном для распечатки виде](https://docs.google.com/document/d/1b_Q81YCUn7dMK4PYrzSXqfn7NtKiHjh76Iz5fvJuoB0/)
+
+Игры начинаются в 18:00.
 
 ## Оплата
 
