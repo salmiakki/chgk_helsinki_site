@@ -1,4 +1,4 @@
-baseURL = 'https://chgk-in-helsinki.netlify.app/'
+# baseURL = 'https://chgk-in-helsinki-draft.netlify.app/'
 languageCode = 'ru'
 title = 'ЧГК в Хельсинки. Клуб «Жемчужная сова» (черновик)'
 theme = 'PaperMod'
