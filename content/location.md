@@ -3,7 +3,7 @@ title = 'Как пройти'
 draft = true
 +++
 
-Игры проходят в центре Хельсинки по адресу [Kirjatyöntekijänkatu 10 А](https://maps.app.goo.gl/EKyyKH3bnVhp56NX9), в 15 минутах пешком от станций метро _Hakaniemi_ или _Helsingin Yliopisto_
+Игры проходят в центре Хельсинки по адресу [Kirjatyöntekijänkatu 10 А](https://maps.app.goo.gl/EKyyKH3bnVhp56NX9), в 10-15 минутах пешком от станций метро _Hakaniemi_ или _Helsingin Yliopisto_
 
 _Фотография двери сюда_
 
