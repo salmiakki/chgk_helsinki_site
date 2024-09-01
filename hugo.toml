@@ -3,7 +3,7 @@ languageCode = 'ru'
 defaultContentLanguage = 'ru'
 title = 'ЧГК в Финляндии. Клуб «Жемчужная сова» (черновик)'
 theme = 'PaperMod'
-copyright = 'Made with 🖤 by [salmiakki](https://github.com/salmiakki/chgk_helsinki_site)'
+copyright = 'Made with 🖤 by salmiakki'
 enableGitInfo = true
 
 [markup.goldmark.renderer]
