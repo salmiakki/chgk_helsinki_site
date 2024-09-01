@@ -1,4 +1,4 @@
-# baseURL = 'https://chgk-in-finland-draft.netlify.app/'
+baseURL = 'https://chgk-in-finland-draft.netlify.app/'
 languageCode = 'ru'
 defaultContentLanguage = 'ru'
 title = 'ЧГК в Финляндии. Клуб «Жемчужная сова» (черновик)'
@@ -7,4 +7,4 @@ copyright = 'Made with 🖤 by [salmiakki](https://github.com/salmiakki/chgk_hel
 enableGitInfo = true
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
