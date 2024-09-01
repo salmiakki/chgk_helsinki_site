@@ -30,7 +30,7 @@ hugo --buildDrafts
 hugo
 ```
 
-Также см. [Justfile](justfile).
+Больше команд есть [в justfile](justfile).
 
 ## Содержание
 
